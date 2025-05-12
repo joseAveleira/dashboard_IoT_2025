@@ -15,7 +15,7 @@ import { aliases, mdi } from 'vuetify/iconsets/mdi'
 import { createPinia } from 'pinia'
 
 // Router
-import router from '.'
+import router from './router'
 
 // Axios (opcional)
 import axios from 'axios'
